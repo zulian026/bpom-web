@@ -1,0 +1,13 @@
+# Laravel
+/vendor
+/storage/*.key
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+
+# React (Vite)
+node_modules
+dist
+.env*
